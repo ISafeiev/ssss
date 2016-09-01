@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hhhhhhhhhhh
-=======
-hcss
->>>>>>> hcss
+1
